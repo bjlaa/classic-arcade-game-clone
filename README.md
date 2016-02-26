@@ -1,6 +1,12 @@
-frontend-nanodegree-arcade-game
-===============================
+# Arcade Game Clone
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+This is an HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript.
 
-for self-checking their submission.
+In order to access it in your browser:
+
+* click in the following link redirecting to my [Github Pages](http://bjlaa.github.io/Arcade-Game-Clone) page for this project.
+
+or
+
+* download the zip file of my project on your computer and open index.html in your favorite browser
+
