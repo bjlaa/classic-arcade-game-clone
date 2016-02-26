@@ -4,7 +4,7 @@ This is an HTML5 Canvas powered video game, developed using the best practices i
 
 In order to access it in your browser:
 
-* click in the following link redirecting to my [Github Pages](http://bjlaa.github.io/Arcade-Game-Clone) page for this project.
+* click in the following link redirecting to my [Github Pages](http://bjlaa.github.io/classic-arcade-game-clone) page for this project.
 
 or
 
